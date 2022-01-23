@@ -2,6 +2,8 @@
 
 In this assignment, we expect to see tests like
 
+![TestResults](./pictures/test-results.png)
+
 `Counter.vue`
 ```html
  <div class="counter-container">
